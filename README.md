@@ -7,7 +7,7 @@ sc.title("Pong game")
 sc.bgcolor("white")
 sc.setup(width=1000, height=600)
 
-
+#left profile 
 # Left paddle
 left_pad = turtle.Turtle()
 left_pad.speed(0)
